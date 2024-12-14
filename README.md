@@ -5,11 +5,8 @@
 -->
 
 ### 🔬 Hakkımda
+Ben Kadir, yazılım geliştirici ve eğitmenim. Teknolojiyi seviyorum ve bildiklerimi paylaşmaktan keyif alıyorum. Yazılım geliştirme ve eğitim içerikleri oluşturma konusunda yoğunlaşıyorum.
 
-- 🔹 **Şu anda üzerinde çalıştığım:** Geliştiriciler ve meraklılar için eğitim içerikleri hazırlıyorum.
-- 🔹 **Şu anda öğrendiğim:** İleri düzey web geliştirme ve sistem tasarımı.
-- 🔹 **Eşitlemeler:** O/Onun
-- 🔹 **Eğlenceli bilgi:** Karmaşık konuları herkes için basitleştirmekten hoşlanıyorum!
 
 ### 🎥 YouTube Eğitim Serileri
 
