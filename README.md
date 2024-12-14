@@ -5,7 +5,8 @@
 -->
 
 ### 🔬 Hakkımda
-Ben Kadir, yazılım geliştirici ve eğitmenim. Teknolojiyi seviyorum ve bildiklerimi paylaşmaktan keyif alıyorum. Yazılım geliştirme ve eğitim içerikleri oluşturma konusunda yoğunlaşıyorum.
+Ben Kadir, software developer ve eğitmenim. Youtube ve udemy gibi mecralarda bildiklerimi paylaşmaktan keyif alıyorum. 
+Kurucusu olduğum VAVI Software ekibinde projeler geliştiriyorum. 
 
 
 ### 🎥 YouTube Eğitim Serileri
@@ -21,9 +22,9 @@ YouTube kanalımda ele aldığım bazı konular aşağıda. İkonlara tıklayara
 
 ### 📧 Bana Ulaşın
 
-- 📩 E-posta: [your-email@example.com](mailto:your-email@example.com)
-- 🔗 LinkedIn: [LinkedIn Profilim](https://linkedin.com/in/yourprofile)
-- 🎥 YouTube: [YouTube Kanalım](https://youtube.com/yourchannel)
+- 📩 E-posta: [your-email@example.com](mailto:deveci.kadir@outlook.com)
+- 🔗 LinkedIn: [LinkedIn Profilim](https://linkedin.com/in/devecikadir14)
+- 🎥 YouTube: [YouTube Kanalım](https://www.youtube.com/@vavisoft)
 
 ---
 
