@@ -1,35 +1,33 @@
-## Hi there 👋
+## Merhaba 👋
 
 <!--
-**DKadir13/DKadir13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DKadir13/DKadir13** deposu, bu `README.md` dosyası sayesinde GitHub profilinde görünür hale gelir.
 -->
 
-### 🔬 About Me
+### 🔬 Hakkımda
 
-- 🔹 **I’m currently working on:** Enhancing educational content for developers and enthusiasts.
-- 🔹 **I’m currently learning:** Advanced web development and system design.
-- 🔹 **Pronouns:** He/Him
-- 🔹 **Fun fact:** I’m passionate about simplifying complex topics for everyone!
+- 🔹 **Şu anda üzerinde çalıştığım:** Geliştiriciler ve meraklılar için eğitim içerikleri hazırlıyorum.
+- 🔹 **Şu anda öğrendiğim:** İleri düzey web geliştirme ve sistem tasarımı.
+- 🔹 **Eşitlemeler:** O/Onun
+- 🔹 **Eğlenceli bilgi:** Karmaşık konuları herkes için basitleştirmekten hoşlanıyorum!
 
-### 🎥 YouTube Educational Series
+### 🎥 YouTube Eğitim Serileri
 
-Here are some of the topics I cover on my YouTube channel. Click the icons to explore:
+YouTube kanalımda ele aldığım bazı konular aşağıda. İkonlara tıklayarak keşfedin:
 
-| **Category**            | **Link** |  
+| **Kategori**            | **Bağlantı** |  
 |--------------------------|----------|
-| ![Web Development](https://img.icons8.com/color/48/000000/html-5.png) | [Web Development Playlist](https://www.youtube.com/playlist?list=YOUR_WEB_DEV_PLAYLIST_ID) |
-| ![Data Structures](https://img.icons8.com/color/48/000000/data-structure.png) | [Data Structures Playlist](https://www.youtube.com/playlist?list=YOUR_DATA_STRUCTURES_PLAYLIST_ID) |
-| ![Algorithms](https://img.icons8.com/color/48/000000/algorithm.png) | [Algorithms Playlist](https://www.youtube.com/playlist?list=YOUR_ALGORITHMS_PLAYLIST_ID) |
-| ![System Design](https://img.icons8.com/color/48/000000/system-task.png) | [System Design Playlist](https://www.youtube.com/playlist?list=YOUR_SYSTEM_DESIGN_PLAYLIST_ID) |
-| ![Python Tutorials](https://img.icons8.com/color/48/000000/python.png) | [Python Tutorials Playlist](https://www.youtube.com/playlist?list=YOUR_PYTHON_TUTORIALS_PLAYLIST_ID) |
+| ![React](https://img.icons8.com/color/48/000000/react-native.png) | [React Eğitim Listesi](https://www.youtube.com/playlist?list=YOUR_REACT_PLAYLIST_ID) |
+| ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) | [JavaScript Eğitim Listesi](https://www.youtube.com/playlist?list=YOUR_JS_PLAYLIST_ID) |
+| ![Python](https://img.icons8.com/color/48/000000/python.png) | [Python Eğitim Listesi](https://www.youtube.com/playlist?list=YOUR_PYTHON_PLAYLIST_ID) |
+| ![Web Geliştirme](https://img.icons8.com/color/48/000000/html-5.png) | [Web Geliştirme Eğitim Listesi](https://www.youtube.com/playlist?list=YOUR_WEB_DEV_PLAYLIST_ID) |
 
-### 📧 How to Reach Me
+### 📧 Bana Ulaşın
 
-- 📩 Email: [your-email@example.com](mailto:your-email@example.com)
-- 🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 📱 Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
-- 🎥 YouTube: [Your Channel](https://youtube.com/yourchannel)
+- 📩 E-posta: [your-email@example.com](mailto:your-email@example.com)
+- 🔗 LinkedIn: [LinkedIn Profilim](https://linkedin.com/in/yourprofile)
+- 🎥 YouTube: [YouTube Kanalım](https://youtube.com/yourchannel)
 
 ---
 
-### ✨ **Explore, Learn, Build, Share!**
+### ✨ **Keşfet, Öğren, İnşa Et, Paylaş!**
