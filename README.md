@@ -5,9 +5,16 @@
 -->
 
 ### 🔬 Hakkımda
-Ben Kadir, software developer ve eğitmenim. Youtube ve udemy gibi mecralarda bildiklerimi paylaşmaktan keyif alıyorum. 
-Kurucusu olduğum VAVI Software ekibinde projeler geliştiriyorum. 
 
+Ben Kadir, yazılım geliştirici ve eğitmenim. Teknolojiyi seviyorum ve bildiklerimi paylaşmaktan keyif alıyorum. Yazılım geliştirme ve eğitim içerikleri oluşturma konusunda yoğunlaşıyorum.
+
+### 🔧 Bildiğim Teknolojiler
+
+- Programlama Dilleri: JavaScript, Python, TypeScript
+- Frontend: React, HTML, CSS
+- Backend: Node.js, Express
+- Veritabanıları: MongoDB, PostgreSQL
+- Araçlar ve Teknolojiler: Git, Docker, REST API, GraphQL
 
 ### 🎥 YouTube Eğitim Serileri
 
@@ -25,7 +32,6 @@ YouTube kanalımda ele aldığım bazı konular aşağıda. İkonlara tıklayara
 - 📩 E-posta: [your-email@example.com](mailto:deveci.kadir@outlook.com)
 - 🔗 LinkedIn: [LinkedIn Profilim](https://linkedin.com/in/devecikadir14)
 - 🎥 YouTube: [YouTube Kanalım](https://www.youtube.com/@vavisoft)
-
 ---
 
 ### ✨ **Keşfet, Öğren, İnşa Et, Paylaş!**
