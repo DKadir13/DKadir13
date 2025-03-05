@@ -6,7 +6,9 @@
 
 ### 🔬 Hakkımda
 
-Ben Kadir, yazılım geliştirici ve eğitmenim. Teknolojiyi seviyorum ve bildiklerimi paylaşmaktan keyif alıyorum. Yazılım geliştirme ve eğitim içerikleri oluşturma konusunda yoğunlaşıyorum.
+Merhabalar ben Kadir, Frontend web developer'ım. Aktif olarak kendi ekibimle birlikte projeler geliştirmekteyim. Bir yazılım firmasında 
+4 aylık bir süreçte deneyimler edindim ve bu alanda aynı zamanda youtube, udemy gibi platformlara eğitici içerikler geliştirmekteyim. 
+
 
 ### 🛠 Bildiğim Teknolojiler
 
